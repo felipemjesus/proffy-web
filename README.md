@@ -1,4 +1,4 @@
-# Proffy - versão web
+# Proffy - WEB
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/felipemjesuss/fakeflix/blob/master/LICENSE)
 
