@@ -11,7 +11,6 @@
     background: var(--color-box-base);
     width: 100%;
     max-width: 74rem;
-    border-radius: 0.8rem;
     margin: -3.2rem auto 3.2rem;
     padding-top: 6.4rem;
     overflow: hidden;
@@ -44,6 +43,10 @@
 }
 
 #page-teacher-form main fieldset .input-block + .textarea-block {
+    margin-top: 2.4rem;
+}
+
+#page-teacher-form main fieldset .select-block + .input-block {
     margin-top: 2.4rem;
 }
 
@@ -99,6 +102,10 @@
 
     #page-teacher-form .page-header .header-content {
         margin-bottom: 0;
+    }
+
+    #page-teacher-form main {
+        border-radius: 0.8rem;
     }
 
     #page-teacher-form main fieldset {
