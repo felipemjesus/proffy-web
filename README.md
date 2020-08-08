@@ -43,30 +43,17 @@
 * [Contribuindo](#tada-contribuindo)
 * [Licencia](#closed_book-licencia)
 
-<h2 align="left"> 📥 Versões disponivel do projeto: </h2>
-<p align="center">
-    <a title="Versão Web" alt="Versão Web" href="https://github.com/felipemjesuss/proffy-web">
-        <svg width="200" height="64" viewBox="0 0 106 64" fill="none"><path d="M97 61V4.207a4.32 4.32 0 00-1.172-2.975A3.903 3.903 0 0093 0H13c-1.06 0-2.078.443-2.828 1.232A4.32 4.32 0 009 4.207V61h88z" fill="#8257E6"></path><path d="M0 61h106v1.5c0 .398-.385.78-1.071 1.06-.685.282-1.615.44-2.584.44H3.655c-.97 0-1.899-.158-2.584-.44C.385 63.28 0 62.899 0 62.5V61zM41.733 30.643l6.06 2.095v3.495L38 32.135v-3.029l9.793-4.098v3.483l-6.06 2.152zM51.383 39h-2.648l5.506-18H56.9l-5.517 18zM64.289 30.61l-6.027-2.107v-3.484L68 29.118v3.028l-9.738 4.099V32.76l6.027-2.152z" fill="#fff"></path></svg>
-    </a>
-   <a title="Versão App" alt="Versão App" href="https://github.com/felipemjesuss/proffy-app">
-       <svg width="200" height="80" viewBox="0 0 43 80" fill="none"><path d="M38.384 80H3.838C1.718 80 0 78.115 0 75.79V4.21C0 1.886 1.718 0 3.838 0h34.546c2.12 0 3.838 1.885 3.838 4.21v71.58c0 2.325-1.718 4.21-3.838 4.21z" fill="#8257E6"></path><path d="M10 0h21.273v.273a3 3 0 01-3 3H13a3 3 0 01-3-3V0z" fill="#121214"></path><path d="M11.93 40.556l4.938 1.81v3.02l-7.98-3.541v-2.617l7.98-3.542v3.01l-4.937 1.86zM19.793 47.778h-2.157l4.486-15.556h2.166l-4.495 15.556zM30.31 40.526l-4.911-1.82v-3.01l7.934 3.541v2.618L25.4 45.397v-3.011l4.91-1.86z" fill="#fff"></path></svg>
-    </a>
-</p>
-<p align="center">
-    <a title="Versão Web" href="https://github.com/felipemjesuss/proffy-web">
-        <img alt="Download" src="https://img.shields.io/badge/Versão Web-black?style=flat-square&logo=github&logoColor=red" width="200px" />
-    </a>
-    <a title="Versão App" href="https://github.com/felipemjesuss/proffy-app">
-        <img alt="Download" src="https://img.shields.io/badge/Versão App-black?style=flat-square&logo=github&logoColor=red" width="195px"/>
-    </a>
-</p>
+# 📥 Versões disponiveis do projeto:
+
+- Proffy Web - [https://github.com/felipemjesuss/proffy-web](https://github.com/felipemjesuss/proffy-web)
+- Proffy App - [https://github.com/felipemjesuss/proffy-app](https://github.com/felipemjesuss/proffy-app)
+- Proffy Api - [https://github.com/felipemjesuss/proffy-api](https://github.com/felipemjesuss/proffy-api)
 
 # :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
 <ul>
   <li><a href="https://reactjs.org/">React</a></li>
   <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
-  <li><a href="https://docs.expo.io/">Expo</a></li>
 </ul>
 
 # :rocket: Funcionalidades

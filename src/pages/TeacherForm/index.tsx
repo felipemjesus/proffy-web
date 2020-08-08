@@ -35,10 +35,25 @@ function TeacherForm() {
             <Input name="cost" label="Custo da sua hora por aula" />
           </fieldset>
 
+          <fieldset>
+            <legend>
+              Horários disponíveis
+              <button type="button">
+                + Novo horário
+              </button>
+            </legend>
+            <div className="schedule-item">
+              <Select name="week_day" label="Dia da semana" options={config.diasDaSemanda} />
+              <Input name="from" label="Das" type="time" />
+              <Input name="to" label="Até" type="time" />
+            </div>
+          </fieldset>
+
           <footer>
             <p>
               <img src={warningIcon} alt="Aviso importante" />
-              Importante! <br />
+              Importante!
+              <br />
               Preencha todos os dados
             </p>
             <button type="button">
